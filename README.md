@@ -1,3 +1,3 @@
 towers
 ======
-README text here.
+`towers` is a CodeSpells mod! Learn more at https://codespells.org.
