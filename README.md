@@ -18,4 +18,3 @@ Open up `main.rkt` and adjust the `codespells-workspace` accordingly. Run.
 `(require-mod towers)`
 
 This gives you access to `towers:my-mod-lang` which you can combine into your mod's rune lang with `append-rune-langs`.
-
